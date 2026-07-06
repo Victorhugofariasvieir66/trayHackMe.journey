@@ -1,4 +1,4 @@
-# trayHackMe.journey 🚀
+# tryHackMe.journey 🚀
 
 My learning journey in pentesting and cybersecurity through [TryHackMe](https://tryhackme.com).
 
