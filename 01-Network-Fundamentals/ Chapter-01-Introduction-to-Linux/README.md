@@ -1,4 +1,13 @@
 # 🐧 Chapter 1 – Introduction to Linux
+# 🐧 Chapter 01 – Introduction to Linux
+
+<p align="center">
+  <img src="LINUXimagen.png" alt="Introduction to Linux" width="800">
+</p>
+
+## What is Linux?
+
+Linux is a free and open-source operating system...
 
 ## What is Linux?
 
