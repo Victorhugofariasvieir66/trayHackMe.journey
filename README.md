@@ -3,7 +3,7 @@
 My learning journey in pentesting and cybersecurity through [TryHackMe](https://tryhackme.com).
 
 ## 👨‍💻 About Me
-I am a 22-year-old software engineer, recently graduated, passionate about technology and cybersecurity.  
+I am a 23-year-old software engineer, recently graduated, passionate about technology and cybersecurity.  
 My dream is to grow professionally and reach a position of high influence in the tech industry, contributing to innovative and impactful solutions.  
 This repository is part of my evolution, documenting my progress, challenges, and achievements.
 
